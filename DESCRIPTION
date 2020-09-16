@@ -1,0 +1,15 @@
+Package: cwdata
+Title: Communicating with Data Resources
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Emily",
+           family = "Sheehan",
+           role = c("aut", "cre"),
+           email = "eshe0012@student.monash.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Contains data and examples from CWD course.
+License: CC-By
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
